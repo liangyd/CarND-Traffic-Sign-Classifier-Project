@@ -185,7 +185,7 @@ Here are the results of the prediction:
 | No Vehicles      		| No Vehicles					 				|
 | General Caution 		| General Caution      							|
 | Turn left ahead		| Turn left ahead     							|
-| Speed Limit(20km/h)	| Speed Limit(60km/h)      						|
+| Speed Limit(20km/h)	| Speed Limit(20km/h)      						|
 | Yield					| Yield			    							|
 
 The model was able to correctly guess 8 of the 8 traffic signs, which gives an accuracy of 100%. This accuracy is almost the same as the accuracy in the previous test.
