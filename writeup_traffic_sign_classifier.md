@@ -36,6 +36,7 @@ The goals of this project are the following:
 [image15]: ./report-images/conv2.jpg
 
 
+
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
